@@ -139,7 +139,7 @@ function saveHighscore() {
     alert("Input mustn't be blank'");
     return;
   }
-  else if(initials.length > 3){
+  else if(initials.length > 50){
     alert("Input must be no more than 3 characters");
     return;
   }
