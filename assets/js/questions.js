@@ -533,6 +533,11 @@ var questions = [
     title: "What does the name Al Qahhar mean?",
     choices: ["The Patient", "The Protector", "The Guide", "The Overwhelming"],
     answer: "The Overwhelming"
+  },
+  {
+    title: "What does Al Zuntiqam mean?",
+    choices: ["The Most Loving", "The Avenger", "The All Mighty", "The Cure"],
+    answer: "The Avenger"
   }
 ];
 
